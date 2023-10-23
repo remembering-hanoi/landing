@@ -2826,8 +2826,8 @@ h1,
     align-items: center;
   }
 
-  .md\:gap-5{
-    gap: 1.25rem;
+  .md\:gap-10{
+    gap: 2.5rem;
   }
 
   .md\:gap-7{
