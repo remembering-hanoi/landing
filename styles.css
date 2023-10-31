@@ -454,21 +454,9 @@ h1,
     h3,
     h4,
     h5,
-    h6,
-    select,
-    .intro-card-tag-layout,
-    .post>address,
-    .post>footer {
+    h6 {
   font-family: "Xanh Mono", serif;
-}
-
-h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6{
-  font-weight: 800;
+  font-style: italic;
 }
 
 .active{
@@ -2227,8 +2215,7 @@ h1,
   padding-bottom: 0px;
 }
 
-.py-2{
-  padding-top: 0.5rem;
+.pb-2{
   padding-bottom: 0.5rem;
 }
 
@@ -2242,10 +2229,6 @@ h1,
 
 .pt-4{
   padding-top: 1rem;
-}
-
-.pb-2{
-  padding-bottom: 0.5rem;
 }
 
 .text-left{
@@ -2403,11 +2386,6 @@ h1,
 .text-gray-50{
   --tw-text-opacity: 1;
   color: rgb(249 250 251 / var(--tw-text-opacity));
-}
-
-.text-white{
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .underline{
